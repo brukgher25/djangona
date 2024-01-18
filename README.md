@@ -1,13 +1,5 @@
 # Django Tailwind Blog - A Developer Portfolio & Blog
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Introduction
 **"Django Tailwind Blog"** is a developer blog and portfolio website built using **Django** and **Tailwind CSS**. It includes several pages such as Home, About, Contact, Blog, Projects, Categories, and custom 404 pages. The project features a clean and modern design that is fully responsive and optimized for performance. It includes a powerful admin interface for managing the content, and is easy to customize and deploy to a production environment.
@@ -98,22 +90,6 @@ python manage.py runserver
 - `Custom 404 Pages`: Custom error pages that display when a user navigates to a non-existent page or encounters an error.
 
 ## Website Screenshots
-![127 0 0 1_8000_about](https://user-images.githubusercontent.com/106135144/218676693-b433a723-0569-4a5a-91e2-d2330659233d.png)
-
-![127 0 0 1_8000_contact](https://user-images.githubusercontent.com/106135144/218676709-3924f790-32db-46f3-a1b5-bf1907506751.png)
-
-![127 0 0 1_8000_blog](https://user-images.githubusercontent.com/106135144/218676733-bc2313e9-9721-4f4b-9fd8-ab7cfa939221.png)
-
-![127 0 0 1_8000_projects](https://user-images.githubusercontent.com/106135144/218676756-3770e70e-149b-48ae-af50-44d1ee43aed6.png)
-
-![127 0 0 1_8000_projectsk](https://user-images.githubusercontent.com/106135144/218676780-62e72dd7-d2e4-4ef9-9b2b-aea25abf625d.png)
-
-## Admin Screenshots
-![127 0 0 1_8000_admin_](https://user-images.githubusercontent.com/106135144/218730427-1aad64b4-65ff-44e4-babf-840d200919fa.png)
-
-![127 0 0 1_8000_admin_home_blog_](https://user-images.githubusercontent.com/106135144/218730473-d914186d-eabf-4ff9-bc45-dd98c024cfb5.png)
-
-![127 0 0 1_8000_admin_home_blog_7_change_](https://user-images.githubusercontent.com/106135144/218730503-f4027aeb-7579-4fc6-8fa4-5331201931e8.png)
 
 ## Deployment
 To deploy this project to a web server, you can follow these general steps:
